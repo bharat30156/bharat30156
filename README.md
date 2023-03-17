@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Bharat<br>👀 I’m interested in Programing Specifically with Java, Python & C#<br>🌱 I’m currently learning IOS(Swift, Go, R(Programming language))<br>📫 How to reach me bk30156@gmail.com
+👋 Hi, I’m Bharat<br>👀 I’m interested in Programing Specifically with Java, Python & C++<br>🌱 I’m currently learning IOS(Swift, Go, R(Programming language))<br>📫 How to reach me bk30156@gmail.com
 
 
 ## 🌐 Socials:
